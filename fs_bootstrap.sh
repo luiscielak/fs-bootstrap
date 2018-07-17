@@ -24,10 +24,10 @@ brew cask install craftmanager
 
 
 # Configure preferences
-cp ~/Dropbox/bootstrap/com.mizage.Divvy.plist ~/Library/Preferences
-cp ~/Dropbox/bootstrap/com.apple.finder.plist ~/Library/Preferences
-cp ~/Dropbox/bootstrap/com.apple.Terminal.plist ~/Library/Preferences
-cp ~/Dropbox/bootstrap/com.googlecode.iterm2.plist ~/Library/Preferences
+cp ~/Dropbox/bootstrap/preferences/com.mizage.Divvy.plist ~/Library/Preferences
+cp ~/Dropbox/bootstrap/preferences/com.apple.finder.plist ~/Library/Preferences
+cp ~/Dropbox/bootstrap/preferences/com.apple.Terminal.plist ~/Library/Preferences
+cp ~/Dropbox/bootstrap/preferences/com.googlecode.iterm2.plist ~/Library/Preferences
 
 
 killall Finder
