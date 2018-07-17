@@ -20,6 +20,7 @@ brew cask install google-drive-file-stream
 brew cask install spotify
 brew cask install expo-xde
 brew cask install firefox
+brew cask install craftmanager
 
 
 # Configure preferences
@@ -47,4 +48,8 @@ echo "source ~/Dropbox/.bash_profile_shared" > ~/.bash_profile
 
 
 
-# Create aliases
+## TODO:
+
+# * Create aliases
+# * Sublime Settings
+
